@@ -8,3 +8,6 @@ There are multile ways to login to eCommons. Most common way is to use login.gov
 
 2) Then login into SciENcv using NIH eRA Commons credentials
 https://www.ncbi.nlm.nih.gov/sciencv/
+
+Then you need to generate a new document using the NIH Biosketch format. 
+For Contribution to Science, citations should be linked from My Biblography. 
