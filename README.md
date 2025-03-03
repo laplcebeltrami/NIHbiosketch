@@ -5,5 +5,5 @@ Any NIH grant proposal after May 2025 should use new SciEncv generated biosketch
 
 
 Log in to SciENcv using your NIH eRA Commons credentials http://public.era.nih.gov/commons/commonsInit.do
-There are multile ways to login to eCommons. 
+There are multile ways to login to eCommons. Most common way is to use login.gov (top link in the eCommons website). 
 
