@@ -10,9 +10,12 @@ There are multile ways to login to eCommons. Most common way is to use login.gov
 https://www.ncbi.nlm.nih.gov/sciencv/
 
 3) Then you need to generate a new document using the NIH Biosketch format. 
-For Contribution to Science, citations should be linked from either "My Biblography" or ORCID. 
+For Contribution to Science, citations should be linked from either "My Biblography" or ORCID.
+If you did not updated your My Biblography trhough NIH, some citations may not be shown.
+It might be easy to copy and paste from MSWORD into Description. However, the order of citations
+may not match so need to manually reorder in the Description. 
 
-Notes: If you did not updated your My Biblography trhough NIH, some citations may not be shown.
-It might be easy to copy and paste from MSWORD into Description. 
-However, the order of citations may not match so need to manually reorder in the Description. 
+5) Generate PDF (by clicking DOWNLOAD button), which will have some sort of digitial mark embeded in PDF.
+The page limit is 5 pages.
+
 
